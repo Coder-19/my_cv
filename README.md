@@ -1,2 +1,2 @@
 # my_cv
-My online cv
+My cv website
